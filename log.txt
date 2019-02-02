@@ -1,0 +1,188 @@
+
+node movie-this eurotrip
+* Title of the movie: EuroTrip
+* Year the movie came out: 2004
+* IMDB Rating of the movie: 6.6/10
+* Rotten Tomatoes Rating of the movie: 45/100
+* Country where the movie was produced: USA, Czech Republic
+* Language of the movie: English, French, German, Italian, Japanese
+* Plot of the movie: Ohio high school student Scott Thomas is a good student and nice guy - albeit a little predictable - who is about to graduate and go into pre-med. He is unceremoniously dumped by his whorish girlfriend Fiona on graduation day. Among the people he turns to in his hour of despair is his German pen pal, Mike. Scott and Mike seem to have a special connection. After Mike makes advances to Scott now that he and Fiona are not seeing each other, Scott abruptly sends Mike a message saying he never wants to hear from him again. However, Scott learns shorty thereafter that Mike is actually a beautiful girl named Mieke. By this time, Mieke has blocked his messages. Thinking that Mieke is actually who he was meant to be with, Scott, impulsively for a change, decides to go to Berlin to be with her. Along for the ride is Scott's best friend, the girl crazy Cooper Harris. They manage only to get a flight into London, and thus have to make their way from London to Berlin. Along the way in Paris, they run into their high school friends, twins Jenny and Jamie, who are backpacking through Europe. Scott and Cooper consider them the most mismatched twins ever, Jamie who is a walking encyclopedia, and Jenny a girl who they treat as just one of the guys. As the four try to make their way to Berlin, they run into a few obstacles and few adventures. Scott hopes that all these problems are worth it when he has his much hyped in his mind meeting with Mieke.
+* Actors in the movie: Scott Mechlowicz, Jacob Pitts, Kristin Kreuk, Cathy Meils
+
+Next Item!
+
+
+node concert-this metallica
+-----Next Concert -----
+* Name of the venue: Don Haskins Center
+* Venue location: United States
+* Date of the Event (MM/DD/YYYY): 02/28/2019
+
+Next Item!
+
+
+node concert-this metallica
+-----Next Concert -----
+* Name of the venue: Don Haskins Center
+* Venue location: United States
+* Date of the Event (MM/DD/YYYY): 02/28/2019
+
+Next Item!
+
+
+node concert-this metallica
+-----Next Concert -----
+* Name of the venue: Don Haskins Center
+* Venue location: United States
+* Date of the Event (MM/DD/YYYY): 02/28/2019
+
+Next Item!
+
+
+node concert-this metallica
+-----Next Concert -----
+* Name of the venue: Don Haskins Center
+* Venue location: United States
+* Date of the Event (MM/DD/YYYY): 02/28/2019
+
+Next Item!
+
+
+node concert-this metallica
+-----Next Concert -----
+* Name of the venue: Don Haskins Center
+* Venue location: United States
+* Date of the Event (MM/DD/YYYY): 02/28/2019
+
+Next Item!
+
+
+node movie-this the matrix
+* Title of the movie: The Matrix
+* Year the movie came out: 1999
+* IMDB Rating of the movie: 8.7/10
+* Rotten Tomatoes Rating of the movie: 88%
+* Country where the movie was produced: USA
+* Language of the movie: English
+* Plot of the movie: Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.
+* Actors in the movie: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+Next Item!
+
+
+node movie-this the matrix
+* Title of the movie: The Matrix
+* Year the movie came out: 1999
+* IMDB Rating of the movie: 8.7/10
+* Rotten Tomatoes Rating of the movie: 88%
+* Country where the movie was produced: USA
+* Language of the movie: English
+* Plot of the movie: Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.
+* Actors in the movie: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+Next Item!
+
+
+node movie-this the matrix
+* Title of the movie: The Matrix
+* Year the movie came out: 1999
+* IMDB Rating of the movie: 8.7/10
+* Rotten Tomatoes Rating of the movie: 88%
+* Country where the movie was produced: USA
+* Language of the movie: English
+* Plot of the movie: Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.
+* Actors in the movie: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+Next Item!
+
+
+node movie-this the matrix
+* Title of the movie: The Matrix
+* Year the movie came out: 1999
+* IMDB Rating of the movie: 8.7/10
+* Rotten Tomatoes Rating of the movie: 88%
+* Country where the movie was produced: USA
+* Language of the movie: English
+* Plot of the movie: Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.
+* Actors in the movie: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+Next Item!
+
+
+node spotify-this-song i want it that way
+undefined
+
+Next Item!
+
+
+node spotify-this-song i want it that way
+[{"external_urls":{"spotify":"https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"},"href":"https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7","id":"5rSXSAkZ67PYJSvpUpkOr7","name":"Backstreet Boys","type":"artist","uri":"spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"}]
+
+Next Item!
+
+
+node spotify-this-song i want it that way
+[{"external_urls":{"spotify":"https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"},"href":"https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7","id":"5rSXSAkZ67PYJSvpUpkOr7","name":"Backstreet Boys","type":"artist","uri":"spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"}]
+
+Next Item!
+
+
+node spotify-this-song i want it that way
+undefined
+
+Next Item!
+
+
+node spotify-this-song i want it that way
+{"tracks":{"href":"https://api.spotify.com/v1/search?query=i+want+it+that+way&type=track&offset=0&limit=1","items":[{"album":{"album_type":"compilation","artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"},"href":"https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7","id":"5rSXSAkZ67PYJSvpUpkOr7","name":"Backstreet Boys","type":"artist","uri":"spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"}],"available_markets":["AD","AE","AR","AT","AU","BE","BG","BH","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","DZ","EC","EE","EG","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IL","IS","IT","JO","JP","KW","LB","LI","LT","LU","LV","MA","MC","MT","MX","MY","NI","NL","NO","NZ","OM","PA","PE","PH","PL","PS","PT","PY","QA","RO","SA","SE","SG","SK","SV","TH","TN","TR","TW","US","UY","VN","ZA"],"external_urls":{"spotify":"https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"},"href":"https://api.spotify.com/v1/albums/1NslKOZobWxINFaFkLol3r","id":"1NslKOZobWxINFaFkLol3r","images":[{"height":640,"url":"https://i.scdn.co/image/91142eab23c3273fa73e490f2d04464c69423f75","width":640},{"height":300,"url":"https://i.scdn.co/image/a0c568812dd34dc1f0262dabec0773c27e36f27a","width":300},{"height":64,"url":"https://i.scdn.co/image/59281a4b01e936a3a5fa3d95d58b033780f0cf8c","width":64}],"name":"The Hits--Chapter One","release_date":"2001-10-23","release_date_precision":"day","total_tracks":13,"type":"album","uri":"spotify:album:1NslKOZobWxINFaFkLol3r"},"artists":[{"external_urls":{"spotify":"https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"},"href":"https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7","id":"5rSXSAkZ67PYJSvpUpkOr7","name":"Backstreet Boys","type":"artist","uri":"spotify:artist:5rSXSAkZ67PYJSvpUpkOr7"}],"available_markets":["AD","AE","AR","AT","AU","BE","BG","BH","BO","BR","CA","CH","CL","CO","CR","CY","CZ","DE","DK","DO","DZ","EC","EE","EG","ES","FI","FR","GB","GR","GT","HK","HN","HU","ID","IE","IL","IS","IT","JO","JP","KW","LB","LI","LT","LU","LV","MA","MC","MT","MX","MY","NI","NL","NO","NZ","OM","PA","PE","PH","PL","PS","PT","PY","QA","RO","SA","SE","SG","SK","SV","TH","TN","TR","TW","US","UY","VN","ZA"],"disc_number":1,"duration_ms":213600,"explicit":false,"external_ids":{"isrc":"USJI19910614"},"external_urls":{"spotify":"https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"},"href":"https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6","id":"6e40mgJiCid5HRAGrbpGA6","is_local":false,"name":"I Want It That Way","popularity":78,"preview_url":"https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=91a6bd26bf954f209d83296756a8f386","track_number":1,"type":"track","uri":"spotify:track:6e40mgJiCid5HRAGrbpGA6"}],"limit":1,"next":"https://api.spotify.com/v1/search?query=i+want+it+that+way&type=track&offset=1&limit=1","offset":0,"previous":null,"total":544}}
+
+Next Item!
+
+
+node spotify-this-song i want it that way
+[object Object]
+
+Next Item!
+
+
+node spotify-this-song i want it that way
+undefined
+
+Next Item!
+
+
+node spotify-this-song i want it that way
+5rSXSAkZ67PYJSvpUpkOr7
+
+Next Item!
+
+
+node spotify-this-song i want it that way
+Backstreet Boys
+
+Next Item!
+
+
+node spotify-this-song run to the hills
+Iron Maiden
+
+Next Item!
+
+
+node spotify-this-song run to the hills
+* Artist(s): Iron Maiden
+* Song Name: Run to the Hills - 2015 Remaster
+* Spotify Preview Link:https://p.scdn.co/mp3-preview/66a6b7102df35ce9e83d29f8f5092ad529eaa14e?cid=91a6bd26bf954f209d83296756a8f386
+* Album: The Number of the Beast (2015 - Remaster)
+
+Next Item!
+
+
+node spotify-this-song run to the hills
+* Artist(s): Iron Maiden
+* Song Name: Run to the Hills - 2015 Remaster
+* Spotify Preview Link: https://p.scdn.co/mp3-preview/66a6b7102df35ce9e83d29f8f5092ad529eaa14e?cid=91a6bd26bf954f209d83296756a8f386
+* Album: The Number of the Beast (2015 - Remaster)
+
+Next Item!
+
